@@ -1,5 +1,7 @@
 # Projects
 
+The videos might take a while to load in the README, if you want to download the files instead they are in their respective folders
+
 ## Imogene Overview
 
 https://github.com/user-attachments/assets/e063a81c-8fec-4dfa-a1c2-f18c14806c3a
